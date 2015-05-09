@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{9E79A6CB-A5B2-4359-9E3C-2CC6036DBDE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexParser", "RegexParser\RegexParser.csproj", "{5B99B6E3-23FB-460C-8C58-4AB9FF061AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGenerator", "DataGenerator\DataGenerator.csproj", "{FF07CEA4-710A-426C-A110-FF1410C76D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E79A6CB-A5B2-4359-9E3C-2CC6036DBDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E79A6CB-A5B2-4359-9E3C-2CC6036DBDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E79A6CB-A5B2-4359-9E3C-2CC6036DBDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E79A6CB-A5B2-4359-9E3C-2CC6036DBDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B99B6E3-23FB-460C-8C58-4AB9FF061AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B99B6E3-23FB-460C-8C58-4AB9FF061AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B99B6E3-23FB-460C-8C58-4AB9FF061AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B99B6E3-23FB-460C-8C58-4AB9FF061AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF07CEA4-710A-426C-A110-FF1410C76D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF07CEA4-710A-426C-A110-FF1410C76D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF07CEA4-710A-426C-A110-FF1410C76D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF07CEA4-710A-426C-A110-FF1410C76D02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
